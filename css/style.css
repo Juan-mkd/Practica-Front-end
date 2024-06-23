@@ -1,0 +1,276 @@
+
+
+header {
+    background: hsl(211 36% 14% / 1);
+}
+
+
+.bg-body-tertiary{
+    background:hsl(211 36% 14% / 1) !important;
+}
+
+
+#navbarNav ul li a{
+    padding: 12px 25px;
+    color: #fff;
+}
+#navbarNav ul li a:hover{
+    color: hsla(38, 81%, 56%, 0.854);
+}
+#navbarNav ul li a.login{
+    background: hsla(38, 81%, 56%, 0.854);
+    padding: 8px 25px;
+    text-align: center;
+}
+
+.hero{
+    width: 100%;
+    background: url(../img/avion.jpg);
+    background-size: cover;
+    padding: 230px 0 180px;
+}
+.hero h1 span{
+    color: orange;
+    font-size: 70px;
+}
+.hero p{
+    color: #fff;
+    font-size: 20px;
+}
+.hero h1{
+    font-size: 65px;
+    color: #fff;
+}
+
+#section1{
+    width: 100%;
+}
+#section1 .touch{
+    margin-top: 60px;
+    padding: 50px;
+}
+#section1 .touch h5{
+    color: orange;
+    font-size: 18px;
+    margin-bottom: 10px;
+
+}
+#section1 .touch h2{
+    font-size: 35px;
+    color: hsl(210.86deg 36.08% 19.02%);
+    margin-bottom: 15px;
+}
+
+#section1 .touch h2 span{
+    color: orange;
+}
+.touch div i{
+    font-size: 30px;
+    color: orange;
+}
+.touch .info{
+    display: flex;
+    align-items: center;
+    margin-top: 25px;
+}
+.touch .datos h4{
+    color: #000;
+}
+.touch .datos{
+    margin-left: 25px;
+}
+
+
+
+.contactanos{
+    margin-top:60px;
+    padding: 50px;
+}
+
+.input{
+    display: flex;
+    flex-direction: row;
+   
+}
+.input .mb3{
+    flex: 1;
+    margin-right: 10px;   
+    background: red;
+    font-size: 35px;
+}
+.input .name2{
+    
+    margin-left: 25px;
+}
+.contactanos .email{
+    padding: 35px 0;
+   
+}
+.contactanos input.buton{
+    
+    margin-top: 25px;
+    padding: 10px 40px;
+    background: orange;
+    border-radius: 5px;
+}
+
+#section2{
+    width: 100%;
+    background: hsl(210.86deg 31.53% 21.76%);
+    margin-top: 25px;
+}
+#section2 div img{
+    width: 100%;
+    height: 100%;
+    margin-top: -30px;
+    padding-right: 35px;
+}
+#section2 div h2{
+    padding-top: 70px;
+    color: #fff;
+    font-size: 35px;
+}
+#section2 div h2 span{
+    color: orange;
+}
+#section2 div p{
+    color: #fff;
+    font-size: 18px;
+}
+#section2  div h5{
+    display: inline-block;
+    color: #fff;
+    font-size: 20px;
+    margin-right: 45px;
+}
+#section2  div .btn-buton{
+    margin-top: 35px;
+    background: orange;
+    padding: 10px 30px;
+    margin-bottom: 30px;
+}
+
+.card-body .info{
+    display: flex;
+    align-items: center;
+  }
+  
+  #section3{
+    margin-bottom: 100px;
+    width: 100%;
+  }
+
+#section3 .card{
+    display: inline-block;
+    width: 45%;
+    padding: 15px;
+    background: hsl(209.09deg 34.74% 18.63%);
+}
+
+#section3  .tarjeta{
+    margin-left: 20px;
+}
+#section3 h3{
+    margin-top: 100px;
+    margin-bottom: 25px;
+    font-size: 35px;
+}
+#section3 h3 span{
+    color: orange;
+}
+#section3 .card .info i{
+    color: orange;
+    font-size: 30px;
+    margin-right: 15px;
+}
+#section3 .card .info h4{
+    color: #fff;
+    font-size: 20px;
+}
+#section3 .card .info h6{
+    color: hsl(213.1deg 11.46% 50.39%);
+    font-size: 15px;
+}
+#section3 .photo img{
+    width: 85%;
+    height: 90%;
+    margin-top: 70px;
+    margin-left: 150px;
+    border-radius: 8px;
+}
+
+
+#section4{
+    width: 100%;
+    background: hsl(210deg 37.21% 16.86%);
+}
+
+#section4 .contacto{
+    display: flex;
+    margin-top: 80px;
+    padding: 50px 15px;
+    
+}
+#section4 .welcome{
+    max-width: 45%;
+    margin-right: 75px;
+}
+
+#section4 h3,h4{
+    color: #fff;
+    font-size: 30px;
+}
+#section4 .welcome p{
+    color: #fff;
+    margin-bottom: 50px;
+}
+#section4 .welcome i{ 
+    margin-left: 15px;
+    color: orange;
+    font-size: 30px;
+}
+#section4 .servicios p{
+    color: #fff;
+    font-size: 18px;
+}
+
+#section4 .contacta2{
+    display: flex;
+    margin-top: 80px;
+    padding: 50px 15px;
+    padding-left: 35px;
+}
+
+#section4 .servicios2 p{
+    color: #fff;
+    font-size: 18px;
+}
+#section4 .info2{
+    padding-left: 100px;
+    
+}
+#section4 .info2 p{
+    color: #fff;
+    font-size: 18px;
+}
+#section4 .info2 .icons{
+    display: flex;
+    align-items: center;
+    margin-top: 45px;
+}
+#section4 .info2 .icons i{
+    color: orange;
+    font-size: 30px;
+    margin-right: 40px;
+    
+}
+#section4 .info2 .icons h4,h6{
+    color: #fff;
+}
+
+footer{
+    background: hsla(209, 33%, 26%, 0.786);
+    color: #fff;
+    padding: 40px;
+    text-align: center;
+}
